@@ -83,7 +83,7 @@ namespace Library_GUI
             // 
             // pictureBox1
             // 
-            this.pictureBox1.ImageLocation = "C:\\Users\\fairy\\OneDrive\\Desktop\\Programing Class\\CSE 310\\module3\\LibraryIMG.jpg";
+            this.pictureBox1.ImageLocation = "C:\\Users\\fairy\\OneDrive\\Desktop\\Programing Class\\CSE 310\\module4\\LibraryIMG.jpg";
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
             this.pictureBox1.Location = new System.Drawing.Point(345, 33);
             this.pictureBox1.Name = "pictureBox1";
